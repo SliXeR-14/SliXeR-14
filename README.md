@@ -142,7 +142,9 @@ timeline
 ## 📬 Liên hệ
 
 <p align="center">
-  <a href="mailto:nguyenminhhuykt2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-SliXeR-14-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nguyenminhhuykt2014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-SliXeR--14-red?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 
 ---
