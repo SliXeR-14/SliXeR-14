@@ -17,8 +17,8 @@
 
 ## 🎮 Ai đây? Chính là mình nè!
 - 🧠 12 tuổi, học lớp 6 – nhưng không phải "trẻ trâu code dạo" đâu nhé!
-- 💻 Dân code Python chính hiệu, chuyên săn file `.py hoặc pyw`
-- 🔧 Fork mọi repo Python nhìn thấy
+- 💻 Dân code Python chính hiệu, chuyên săn file `.py, pyw hoặc .cpp`
+- 🔧 Fork mọi repo Python và C++ nhìn thấy
 - 🤖 Fan cuồn code automation
 - ⚽ Fan cuồng cầu thủ nổi tiếng nhất thế giới: Cristiano Ronaldo
 
