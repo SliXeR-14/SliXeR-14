@@ -153,6 +153,8 @@ timeline
 ## 🎉 Fun Facts
 - 🐍 Viết script Python nhanh hơn làm toán trên lớp 😆
 
+- 🐍 Viết script C++ nhanh hơn làm toán trên lớp 😆
+
 - 🎮 PvZ Modder tương lai – biến zombie thành… C++ cũng được!
 
 - 🛠 Bug không phải kẻ thù, bug là sensei dạy mình code giỏi hơn.
