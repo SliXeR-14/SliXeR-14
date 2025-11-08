@@ -19,7 +19,7 @@
 - 🧠 12 tuổi, học lớp 6 – nhưng không phải "trẻ trâu code dạo" đâu nhé!
 - 💻 Dân code Python chính hiệu, chuyên săn file `.py, pyw hoặc .cpp`
 - 🔧 Fork mọi repo Python và C++ nhìn thấy
-- 🤖 Fan cuồn code automation
+- 🤖 Fan cuồng code automation
 - ⚽ Fan cuồng Cristiano Ronaldo
 
 ---
