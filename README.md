@@ -191,7 +191,7 @@ timeline
 ---
 
 ## 🙏 Cảm ơn
-<p align="center"><b>🌟 Cảm ơn bạn đã xem đến đây! Đừng quên thả sao ⭐ nếu bạn thích nha!</b></p>
+<p align="center"><b>🌟 Cảm ơn bạn đã xem đến đây! Đừng quên thả sao ⭐ và cho mình 1 Follow nếu bạn thích nha!</b></p>
 
 <p align="center"> <img src="https://img.shields.io/badge/%E2%AD%90-Follow%20đi%2C%20Mấy%20Fan%20ơi!-yellow?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/🔥 Cảm ơn đã đọc đến đây nhé!-red?style=for-the-badge&logo=github" /> </p>
 
