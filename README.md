@@ -103,9 +103,9 @@
       <td><a href="https://github.com/SliXeR-14/SliXeR-14">🔎 Xem ngay</a></td>
     </tr>
     <tr>
-      <td><strong>Mega-Tools</strong></td>
+      <td><strong>NEXUS-GUI</strong></td>
       <td>Repository về <strong>Tool</strong>, giúp ích trong cuộc sống, được làm bởi <strong>SliXeR-14</strong>.</td>
-      <td><a href="https://github.com/SliXeR-14/Mega-Tools">🔎 Xem ngay</a></td>
+      <td><a href="https://github.com/SliXeR-14/NEXUS-GUI">🔎 Xem ngay</a></td>
     </tr>
   </tbody>
 </table>
