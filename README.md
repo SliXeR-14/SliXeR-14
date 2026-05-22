@@ -16,7 +16,7 @@
 ---
 
 ## 🎮 Ai đây? Chính là mình nè!
-- 🧠 12 tuổi, học lớp 6 – nhưng không phải "trẻ trâu code dạo" đâu nhé!
+- 🧠 19 tuổi, học năm nhất đại học
 - 💻 Dân code Python chính hiệu, chuyên săn file `.py, pyw hoặc .cpp`
 - 🔧 Fork mọi repo Python và C++ nhìn thấy
 - 🤖 Fan cuồng code automation
