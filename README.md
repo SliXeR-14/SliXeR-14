@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SliXeR-14&fontSize=60&fontAlignY=35&desc=From%20Class%206%20to%20GitHub%20Legend&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SliXeR-14&fontSize=60&fontAlignY=35&desc%20to%20GitHub%20Legend&descAlignY=55&descAlign=50" />
 </p>
 
 <h1 align="center">🚀 SliXeR-14 - Hành trình từ lớp 6 đến huyền thoại GitHub 🚀</h1>
