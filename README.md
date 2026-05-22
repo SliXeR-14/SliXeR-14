@@ -101,12 +101,6 @@
       <td><strong>SliXeR-14</strong></td>
       <td>⚡ Repo gốc gác của huyền thoại.<br/>🧠 Mỗi commit = 1% IQ tăng!<br/>💾 Fork là đam mê, bug là bạn thân 😎.</td>
       <td><a href="https://github.com/SliXeR-14/SliXeR-14">🔎 Xem ngay</a></td>
-    </tr>
-    <tr>
-      <td><strong>NEXUS-GUI</strong></td>
-      <td>Repository về <strong>Tool</strong>, giúp ích trong cuộc sống, được làm bởi <strong>SliXeR-14</strong>.</td>
-      <td><a href="https://github.com/SliXeR-14/NEXUS-GUI">🔎 Xem ngay</a></td>
-    </tr>
   </tbody>
 </table>
 
