@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SliXeR-14&fontSize=60&fontAlignY=35&desc%20to%20GitHub%20Legend&descAlignY=55&descAlign=50" />
 </p>
 
-<h1 align="center">🚀 SliXeR-14 - Hành trình từ lớp 6 đến huyền thoại GitHub 🚀</h1>
+<h1 align="center">🚀 SliXeR-14 - 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B1+Code+v%C3%AC+%C4%91am+m%C3%AA;%F0%9F%94%A5+PvZ+Modder+t%C6%B0%C6%A1ng+lai;%E2%AD%90+Fork+cho+%C4%91%E1%BA%BFn+khi+n%C3%A0o+h%E1%BA%BFt+sao" />
